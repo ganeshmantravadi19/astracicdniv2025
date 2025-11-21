@@ -35,4 +35,4 @@ jobs:
           echo: "Job Run Successful"
           echo Add other actions to build,
           ech test, and deploy your project.
-ec
+
